@@ -1,4 +1,3 @@
-import java.io.InputStreamReader;
 import java.util.HashSet;
 public class L3ALongestSubstring {
     static int getLongestSubstring(String inputString){
